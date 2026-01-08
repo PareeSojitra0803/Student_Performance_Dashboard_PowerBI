@@ -31,7 +31,7 @@ The dashboard enables educators and stakeholders to **monitor student performanc
 ---
 
 ## 🗂️ Repository Structure
-
+```
 ├── Student Performance Dashboard - Academic & Behavioral Insights.pbix
 │
 ├── Data/
@@ -53,7 +53,7 @@ The dashboard enables educators and stakeholders to **monitor student performanc
 │ └── Mobile Layout.mp4
 │
 └── README.md
-
+```
 
 ---
 
@@ -204,3 +204,4 @@ This project demonstrates not only **technical proficiency in Power BI**, but al
 **Paree G. Sojitra**  
 Power BI & Data Analytics Enthusiast  
 📍 Surat, India
+
